@@ -88,8 +88,18 @@ const profileData = {
       date: "August 2021 - June 2024",
       details: 
       [
-        `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
-        `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
+        `Played a key role in the BI team, developing and optimizing data infrastructure to enhance access to critical information and expand reporting capabilities.`,
+        `Utilized Tableau and Power BI to design and develop insightful reports and dashboards, providing stakeholders with actionable data.`,
+        `Employed advanced analytical methods to conduct detailed analyses of domain-specific source data, producing accurate and meaningful statements and conclusions.`,
+        `Spearheaded the development, rollout, and maintenance of executive and management dashboards across the enterprise.`,
+        `Prepared and delivered presentations for Division management and line personnel, serving as the primary point of contact for analysis-related queries.`,
+        `Generated daily, monthly, and annual reports to address both short-term and long-term BI needs.`,
+        `Regularly engaged with business users to discuss project status and gather new requirements.`,
+        `Developed various customized and interactive reports and dashboards in Power BI, including role-based security implementations.`,
+        `Designed and implemented stored procedures, views, and functions in SQL, and created comprehensive reports using SSRS.`,
+        `Contributed to the development of a system managing over 300,000 health workers, using SQL and C#.Net.`,
+        `Developed web applications using C#.Net and SQL Server, and created windows applications with C#.Net.`,
+
       ],
     },
     
