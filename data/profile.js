@@ -84,8 +84,8 @@ const profileData = {
     },
     {
       organization: "Rite Aid",
-      title: `C# .Net Developer`,
-      date: "August 2021 - June 2024",
+      title: `Dotnet and BI Developer`,
+      date: "August 2018 - January 2021",
       details: 
       [
         `Played a key role in the BI team, developing and optimizing data infrastructure to enhance access to critical information and expand reporting capabilities.`,
