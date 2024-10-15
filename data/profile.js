@@ -1,10 +1,11 @@
 const profileData = {
   title: "Resume",
   name: "Isaac D. Koranteng",
-  sub_title: "System Administrator, Data Analyst, and DevOps Engineer",
+  sub_title: "DevOps Engineer, System Administrator, and Data Analyst,",
   logoURL: "assets/images/dp.jpg",
   about: {
-    intro: `Dynamic DevOps Engineer with over three years experience  in CI/CD pipelines, test automation, and performance monitoring, known for slashing deployment times by 40% and boosting test coverage by 65%. Versatile in both DevOps and .NET development, adept at leading teams and optimizing system performance with a 75% reduction in downtime.`,
+    intro: `An accomplished IT specialist with a robust blend of DevOps engineering and business intelligence expertise, boasting over seven years of experience in the field. Proven track record of slashing deployment times by 40% and boosting test coverage by 65% through advanced CI/CD pipelines, test automation, and performance monitoring. Adept in both DevOps and .NET development, recognized for leading teams and optimizing system performance with a 75% reduction in downtime.
+            Possesses about 5 years of solutions-oriented business intelligence experience, providing critical insights and metrics that drive corporate decision-making. Mastery of analytics and reporting tools to deliver cost-effective, high-performance technology solutions that meet evolving organizational demands. Skilled in leveraging data-driven methodologies to offer in-depth analysis on product design, user flows, and experiences.`,
     contact: {
       email: "isaac4koranteng@gmail.com",
       phone: "+1-614-779-3975",
